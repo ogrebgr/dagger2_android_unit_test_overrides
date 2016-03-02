@@ -1,10 +1,10 @@
 package com.bolyartech.d2overrides;
 
-import android.support.v7.app.AppCompatActivity;
+import android.app.Activity;
 import android.os.Bundle;
 
 
-public class Act_Main extends AppCompatActivity {
+public class Act_Main extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
