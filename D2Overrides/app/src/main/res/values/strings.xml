@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">D2Overrides</string>
+    <string name="act__main__tv_result_label">Result:</string>
+    <string name="act__main__btn_execute">Execute request</string>
 </resources>
